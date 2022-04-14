@@ -1,4 +1,12 @@
 #**Hello world!**
 ##Frontend dev
 
-!JAVASCRIPT
+Javascript
+ReactJS
+React hooks
+Redux
+CSS
+HTML
+GIT
+SCSS
+BEM(CSS)
