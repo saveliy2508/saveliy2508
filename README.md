@@ -1,7 +1,6 @@
-# **Hello world!**
-## Frontend dev
+# :wave: **Hello world!**
 
-## Technology stack:
+## :computer: Technology stack:
 
 * Javascript
 * ReactJS
