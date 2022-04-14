@@ -1,8 +1,8 @@
 #**Hello world!**
 ##Frontend dev
 
-1 Javascript
-2 ReactJS
+* Javascript
+*ReactJS
 React hooks
 Redux
 CSS
