@@ -4,10 +4,7 @@
 
 * Javascript
 * ReactJS
-* React hooks
 * Redux
-* CSS
+* CSS(SCSS, BEM)
 * HTML
 * GIT
-* SCSS
-* BEM(CSS)
