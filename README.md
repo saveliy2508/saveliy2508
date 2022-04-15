@@ -5,6 +5,6 @@
 * Javascript
 * ReactJS
 * Redux
-* CSS(SCSS, BEM)
+* CSS (SCSS, BEM)
 * HTML
 * GIT
