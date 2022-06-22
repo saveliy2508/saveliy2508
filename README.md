@@ -8,5 +8,3 @@
 * CSS (SCSS, BEM)
 * HTML
 * GIT
-
-* Firebase, Foormik, React-Final-Form, Prettier...
