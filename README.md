@@ -8,4 +8,5 @@
 * Redux (redux-thunk, Redux-Saga)
 * CSS (SCSS, BEM)
 * HTML
+* Webpack
 * GIT
