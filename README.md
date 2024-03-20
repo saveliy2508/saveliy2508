@@ -1,7 +1,7 @@
 # :wave: **Hello world!**
 
 ## :computer: My technology stack:
-# Frontend</h2>
+<h3>Frontend</h3>
 <ul>
 <li>Javascript, Typescript</li>
 <li>ReactJS (React-hooks, React router v5/v6)</li>
@@ -13,7 +13,7 @@
 <li>GIT, Github, Gitlab</li>
 </ul>
 
-# Backend
+<h3>Backend</h3>
 <ul>
 <li>NodeJs</li>
 <li>Express</li>
