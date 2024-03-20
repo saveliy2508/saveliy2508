@@ -7,7 +7,7 @@
 <li>ReactJS (React-hooks, React router v5/v6)</li>
 <li>Redux, Redux-toolkit (redux-thunk, Redux-Saga), Mobx</li>
 <li>CSS (SCSS, BEM)</li>
-<li>HTML</li>
+<li>HTML, SEMANTIC</li>
 <li>Webpack/Vite</li>
 <li>Jest, React-testing-library, Enzyme, Storybook, Cypress</li>
 <li>GIT, Github, Gitlab</li>
